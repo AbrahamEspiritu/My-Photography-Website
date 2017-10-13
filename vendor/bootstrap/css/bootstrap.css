@@ -3273,6 +3273,7 @@ tbody.collapse.show {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
+  font-family: 'Permanent Marker', cursive;
 }
 
 .navbar-brand:focus, .navbar-brand:hover {
