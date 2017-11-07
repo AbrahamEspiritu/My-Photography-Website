@@ -55,5 +55,6 @@ body {
 }
 
 .baguetteBox-button {
-    background-color: transparent !important;
+    background-color: #ddd;
+    border: none;
 }
